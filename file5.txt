@@ -1,0 +1,2 @@
+Ce fichier ne sera disponible que dans la branche "NewFeature"
+Nouvelle ligne

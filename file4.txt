@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Voici mon quatrième fichier que je viens de créernew line here in file4.txt
+=======
+Ici c'est quelque chose de carrément différent in man
+>>>>>>> newFeature
