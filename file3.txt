@@ -1,1 +1,2 @@
 Ici c'est le troisième fichier qui a été créé localement
+Un bug a été fixé
